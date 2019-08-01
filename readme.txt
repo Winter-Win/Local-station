@@ -5,3 +5,4 @@ Git changed.
 Git tracks changes of files.
 Git checkout -b <name>
 Create a new branch test1.
+Create a new branch test2.
